@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- SSC_Merry_Leader_Icons -->
+<!-- Author: pc -->
+<!-- DateCreated: 8/27/2021 12:32:04 AM -->
+<GameData>
+	<IconTextureAtlases>
+		<Row Name="ATLAS_ICON_SSC_MERRY_LEADER" IconSize="32" Filename="ICON_SSC_MERRY_LEADER_32"/>
+		<Row Name="ATLAS_ICON_SSC_MERRY_LEADER" IconSize="45" Filename="ICON_SSC_MERRY_LEADER_45"/>
+		<Row Name="ATLAS_ICON_SSC_MERRY_LEADER" IconSize="48" Filename="ICON_SSC_MERRY_LEADER_48"/>
+		<Row Name="ATLAS_ICON_SSC_MERRY_LEADER" IconSize="50" Filename="ICON_SSC_MERRY_LEADER_50"/>
+		<Row Name="ATLAS_ICON_SSC_MERRY_LEADER" IconSize="55" Filename="ICON_SSC_MERRY_LEADER_55"/>
+		<Row Name="ATLAS_ICON_SSC_MERRY_LEADER" IconSize="64" Filename="ICON_SSC_MERRY_LEADER_64"/>
+		<Row Name="ATLAS_ICON_SSC_MERRY_LEADER" IconSize="80" Filename="ICON_SSC_MERRY_LEADER_80"/>
+		<Row Name="ATLAS_ICON_SSC_MERRY_LEADER" IconSize="256" Filename="ICON_SSC_MERRY_LEADER_256"/>
+	</IconTextureAtlases>
+	<IconDefinitions>
+		<Row Name="ICON_SSC_MERRY_LEADER" Atlas="ATLAS_ICON_SSC_MERRY_LEADER" Index="0"/>
+	</IconDefinitions>
+</GameData>

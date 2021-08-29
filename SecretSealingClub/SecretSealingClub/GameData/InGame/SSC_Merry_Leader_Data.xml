@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- SSC_Merry_Leader_Data -->
+<!-- Author: pc -->
+<!-- DateCreated: 8/26/2021 8:41:59 PM -->
+<GameData>
+	<Types>
+		<Row Type="LEADER_SSC_MERRY" Kind="KIND_LEADER"/>
+		<Row Type="TRAIT_AGENDA_SSC_MERRY" Kind="KIND_TRAIT"/>
+		<Row Type="TRAIT_LEADER_SSC_MERRY_ABILITY" Kind="KIND_TRAIT"/>
+	</Types>
+	<Leaders>
+		<Row LeaderType="LEADER_SSC_MERRY" Name="LOC_LEADER_SSC_MERRY_NAME" InheritFrom="LEADER_DEFAULT" Sex="Female" SceneLayers="4"/>
+	</Leaders>
+	<LeaderQuotes>
+		<Row LeaderType="LEADER_SSC_MERRY" Quote="LOC_LEADER_SSC_MERRY_QUOTE"/>
+	</LeaderQuotes>
+	<Traits>
+		<Row TraitType="TRAIT_AGENDA_SSC_MERRY" Name="LOC_TRAIT_AGENDA_SSC_MERRY_NAME" Description="LOC_TRAIT_AGENDA_SSC_MERRY_DESCRIPTION"/>
+		<Row TraitType="TRAIT_LEADER_SSC_MERRY_ABILITY" Name="LOC_TRAIT_LEADER_SSC_MERRY_ABILITY_NAME" Description="LOC_TRAIT_LEADER_SSC_MERRY_ABILITY_DESCRIPTION"/>
+	</Traits>
+	<LeaderTraits>
+		<Row LeaderType="LEADER_SSC_MERRY" TraitType="TRAIT_LEADER_SSC_MERRY_ABILITY"/>
+	</LeaderTraits>
+	<Agendas>
+		<Row AgendaType="AGENDA_SSC_MERRY" Name="LOC_AGENDA_SSC_MERRY_NAME" Description="LOC_AGENDA_SSC_MERRY_DESCRIPTION"/>
+	</Agendas>
+	<HistoricalAgendas>
+		<Row LeaderType="LEADER_SSC_MERRY" AgendaType="AGENDA_SSC_MERRY"/>
+	</HistoricalAgendas>
+	<AgendaTraits>
+		<Row AgendaType="AGENDA_SSC_MERRY" TraitType="TRAIT_AGENDA_SSC_MERRY"/>
+	</AgendaTraits>
+	<Colors>
+		<Row>
+			<Type>COLOR_PLAYER_LEADER_SSC_MERRY_PRIMARY</Type>
+			<Color>255,105,180,255</Color>
+		</Row>
+		<Row>
+			<Type>COLOR_PLAYER_LEADER_SSC_MERRY_SECONDARY</Type>
+			<Color>255,235,79,255</Color>
+		</Row>
+		<Row>
+			<Type>COLOR_PLAYER_LEADER_SSC_MERRY_TEXT</Type>
+			<Color>139,0,139,255</Color>
+		</Row>
+	</Colors>
+	<PlayerColors>
+		<Row>
+			<Type>LEADER_SSC_MERRY</Type>
+			<Usage>Unique</Usage>
+			<PrimaryColor>COLOR_PLAYER_LEADER_SSC_MERRY_PRIMARY</PrimaryColor>
+			<SecondaryColor>COLOR_PLAYER_LEADER_SSC_MERRY_SECONDARY</SecondaryColor>
+			<TextColor>COLOR_PLAYER_LEADER_SSC_MERRY_TEXT</TextColor>
+		</Row>
+	</PlayerColors>
+	<LoadingInfo>
+		<Row LeaderType="LEADER_SSC_MERRY" ForegroundImage="LEADER_SSC_MERRY_NEUTRAL" BackgroundImage="LEADER_SSC_MERRY_BACKGROUND_LOADING" PlayDawnOfManAudio="1" EraText="LOC_ERA_" LeaderText="LOC_LOADING_INFO_LEADER_SSC_MERRY"/>
+	</LoadingInfo>
+	<DiplomacyInfo>
+		<Row Type="LEADER_SSC_MERRY" BackgroundImage="LEADER_SSC_MERRY_BACKGROUND_DIPLOMACY"/>
+	</DiplomacyInfo>
+</GameData>

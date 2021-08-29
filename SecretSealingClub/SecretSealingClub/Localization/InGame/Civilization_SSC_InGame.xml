@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<GameData>
+	<LocalizedText>
+		<Row Tag="LOC_CITY_NAME_0" Language="en_US">
+			<Text>Night Trip to Rendaino</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_1" Language="en_US">
+			<Text>Changing Dreams in the Age of Science</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_2" Language="en_US">
+			<Text>East-West Tokaido</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_3" Language="en_US">
+			<Text>Celestial Wizardry</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_4" Language="en_US">
+			<Text>Unknow Flower, Mesmerizing Journey</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_5" Language="en_US">
+			<Text>Ruins of Torifune</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_6" Language="en_US">
+			<Text>Izanagi Object</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_7" Language="en_US">
+			<Text>Swallowstone Naturalis Historia</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_8" Language="en_US">
+			<Text>Old Testament Tavern</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_CAPITAL" Language="en_US">
+			<Text>Secret Sealing Club</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_SSC_NAME" Language="en_US">
+			<Text>Fantasy Traveler</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_0" Language="zh_Hans_CN">
+			<Text>莲台野夜行</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_1" Language="zh_Hans_CN">
+			<Text>梦违科学世纪</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_2" Language="zh_Hans_CN">
+			<Text>卯酉东海道</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_3" Language="zh_Hans_CN">
+			<Text>大空魔术</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_4" Language="zh_Hans_CN">
+			<Text>未知之花 魅知之旅</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_5" Language="zh_Hans_CN">
+			<Text>鸟船遗迹</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_6" Language="zh_Hans_CN">
+			<Text>伊奘诺物质</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_7" Language="zh_Hans_CN">
+			<Text>燕石博物志</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_8" Language="zh_Hans_CN">
+			<Text>旧约酒馆</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_CAPITAL" Language="zh_Hans_CN">
+			<Text>秘封俱乐部</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_SSC_NAME" Language="zh_Hans_CN">
+			<Text>幻想旅人</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_ADJECTIVE" Language="zh_Hans_CN">
+			<Text>Adjective</Text>
+		</Row>
+	</LocalizedText>
+</GameData>

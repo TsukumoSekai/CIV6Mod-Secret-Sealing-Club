@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Civilization_SSC_Data -->
+<!-- Author: pc -->
+<!-- DateCreated: 8/27/2021 11:35:52 PM -->
+<GameData>
+	<Types>
+		<Row Type="CIVILIZATION_SSC" Kind="KIND_CIVILIZATION"/>
+		<Row Type="TRAIT_CIVILIZATION_" Kind="KIND_TRAIT"/>
+	</Types>
+	<Civilizations>
+		<Row CivilizationType="CIVILIZATION_SSC" Name="LOC_CIVILIZATION_SSC_NAME" Description="LOC_CIVILIZATION_SSC_NAME" Adjective="LOC_CIVILIZATION_ADJECTIVE" RandomCityNameDepth="1" StartingCivilizationLevelType="CIVILIZATION_LEVEL_FULL_CIV" Ethnicity="ETHNICITY_ASIAN"/>
+	</Civilizations>
+	<CivilizationLeaders>
+		<Row CivilizationType="CIVILIZATION_SSC" LeaderType="LEADER_SSC_MERRY" CapitalName="LOC_CITY_NAME_CAPITAL"/>
+		<!--<Row CivilizationType="CIVILIZATION_SSC" LeaderType="LEADER_SSC_RENKO" CapitalName="LOC_CITY_NAME_CAPITAL"/>-->
+	</CivilizationLeaders>
+	<Traits>
+		<Row TraitType="TRAIT_CIVILIZATION_" Name="LOC_TRAIT_CIVILIZATION_" Description="LOC_TRAIT_CIVILIZATION_"/>
+	</Traits>
+	<CivilizationTraits>
+		<Row CivilizationType="CIVILIZATION_SSC" TraitType="TRAIT_CIVILIZATION_"/>
+	</CivilizationTraits>
+	<CityNames>
+		<Row CivilizationType="CIVILIZATION_SSC" CityName="LOC_CITY_NAME_0"/>
+		<Row CivilizationType="CIVILIZATION_SSC" CityName="LOC_CITY_NAME_1"/>
+		<Row CivilizationType="CIVILIZATION_SSC" CityName="LOC_CITY_NAME_2"/>
+		<Row CivilizationType="CIVILIZATION_SSC" CityName="LOC_CITY_NAME_3"/>
+		<Row CivilizationType="CIVILIZATION_SSC" CityName="LOC_CITY_NAME_4"/>
+		<Row CivilizationType="CIVILIZATION_SSC" CityName="LOC_CITY_NAME_5"/>
+		<Row CivilizationType="CIVILIZATION_SSC" CityName="LOC_CITY_NAME_6"/>
+		<Row CivilizationType="CIVILIZATION_SSC" CityName="LOC_CITY_NAME_7"/>
+		<Row CivilizationType="CIVILIZATION_SSC" CityName="LOC_CITY_NAME_8"/>
+	</CityNames>
+	<CivilizationCitizenNames>
+		<Row CivilizationType="CIVILIZATION_SSC" CitizenName="LOC_CITIZEN_NAME_"/>
+	</CivilizationCitizenNames>
+</GameData>

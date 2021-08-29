@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- SSC_Merry_Leader_FrontEnd -->
+<!-- Author: pc -->
+<!-- DateCreated: 8/26/2021 11:45:24 PM -->
+<GameData>
+	<LocalizedText>
+		<Row Tag="LOC_LEADER_SSC_MERRY_NAME" Language="en_US">
+			<Text>Maribel Hearn</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_SSC_MERRY_NAME" Language="zh_Hans_CN">
+			<Text>玛艾露贝莉·赫恩</Text>
+		</Row>
+	</LocalizedText>
+</GameData>

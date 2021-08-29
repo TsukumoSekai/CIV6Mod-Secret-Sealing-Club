@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<AssetObjects..XLP>
+	<m_Version>
+		<major>1</major>
+		<minor>0</minor>
+		<build>0</build>
+		<revision>0</revision>
+	</m_Version>
+	<m_ClassName text="UITexture"/>
+	<m_PackageName text="UI\Icons"/>
+	<m_Entries>
+		<Element>
+			<m_EntryID text="ICON_SSC_MERRY_LEADER_256"/>
+			<m_ObjectName text="ICON_SSC_MERRY_LEADER_256"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_SSC_MERRY_LEADER_32"/>
+			<m_ObjectName text="ICON_SSC_MERRY_LEADER_32"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_SSC_MERRY_LEADER_45"/>
+			<m_ObjectName text="ICON_SSC_MERRY_LEADER_45"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_SSC_MERRY_LEADER_48"/>
+			<m_ObjectName text="ICON_SSC_MERRY_LEADER_48"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_SSC_MERRY_LEADER_50"/>
+			<m_ObjectName text="ICON_SSC_MERRY_LEADER_50"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_SSC_MERRY_LEADER_55"/>
+			<m_ObjectName text="ICON_SSC_MERRY_LEADER_55"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_SSC_MERRY_LEADER_64"/>
+			<m_ObjectName text="ICON_SSC_MERRY_LEADER_64"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_SSC_MERRY_LEADER_80"/>
+			<m_ObjectName text="ICON_SSC_MERRY_LEADER_80"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LEADER_SSC_MERRY_BACKGROUND_DIPLOMACY"/>
+			<m_ObjectName text="LEADER_SSC_MERRY_BACKGROUND_DIPLOMACY"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LEADER_SSC_MERRY_BACKGROUND_LOADING"/>
+			<m_ObjectName text="LEADER_SSC_MERRY_BACKGROUND_LOADING"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LEADER_SSC_MERRY_NEUTRAL"/>
+			<m_ObjectName text="LEADER_SSC_MERRY_NEUTRAL"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LEADER_SSC_MERRY_PORTRAIT_LOADING"/>
+			<m_ObjectName text="LEADER_SSC_MERRY_PORTRAIT_LOADING"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_CIVILIZATION_SSC_MERRY"/>
+			<m_ObjectName text="ICON_CIVILIZATION_SSC_MERRY"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LEADER_SSC_MERRY_PORTRAIT"/>
+			<m_ObjectName text="LEADER_SSC_MERRY_PORTRAIT"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LEADER_SSC_MERRY_PORTRAIT_BACKGROUND"/>
+			<m_ObjectName text="LEADER_SSC_MERRY_PORTRAIT_BACKGROUND"/>
+		</Element>
+	</m_Entries>
+	<m_AllowedPlatforms>
+		<Element>WINDOWS</Element>
+		<Element>IOS</Element>
+		<Element>LINUX</Element>
+		<Element>XBONE</Element>
+		<Element>PS4</Element>
+		<Element>SWITCH</Element>
+		<Element>STADIA</Element>
+		<Element>MACOS</Element>
+	</m_AllowedPlatforms>
+</AssetObjects..XLP>
+

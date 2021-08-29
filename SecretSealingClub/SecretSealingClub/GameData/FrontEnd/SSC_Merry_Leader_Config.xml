@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- SSC_Merry_Leader_Config -->
+<!-- Author: pc -->
+<!-- DateCreated: 8/26/2021 9:36:56 PM -->
+<GameData>
+	<Players>
+		<Row CivilizationAbilityDescription="LOC_CIVILIZATION_SSC_ABILITY_DESCRIPTION" CivilizationAbilityIcon="ICON_CIVILIZATION_SSC_ABILITY" CivilizationAbilityName="LOC_CIVILIZATION_SSC_ABILITY_NAME" CivilizationIcon="ICON_CIVILIZATION_SSC_MERRY" CivilizationName="LOC_CIVILIZATION_SSC_NAME" CivilizationType="CIVILIZATION_SSC" LeaderAbilityDescription="LOC_TRAIT_LEADER_SSC_MERRY_ABILITY_DESCRIPTION" LeaderAbilityIcon="ICON_SSC_MERRY_LEADER_ABILITY" LeaderAbilityName="LOC_TRAIT_LEADER_SSC_MERRY_ABILITY_NAME" LeaderIcon="ICON_SSC_MERRY_LEADER" LeaderName="LOC_LEADER_SSC_MERRY_NAME" LeaderType="LEADER_SSC_MERRY" Portrait="LEADER_SSC_MERRY_PORTRAIT" PortraitBackground="LEADER_SSC_MERRY_PORTRAIT_BACKGROUND"/>
+		<!-- Expansion 1 Support -->
+		<Row CivilizationAbilityDescription="LOC_CIVILIZATION_SSC_ABILITY_DESCRIPTION" CivilizationAbilityIcon="ICON_CIVILIZATION_SSC_ABILITY" CivilizationAbilityName="LOC_CIVILIZATION_SSC_ABILITY_NAME" CivilizationIcon="ICON_CIVILIZATION_SSC_MERRY" CivilizationName="LOC_CIVILIZATION_SSC_NAME" CivilizationType="CIVILIZATION_SSC" LeaderAbilityDescription="LOC_TRAIT_LEADER_SSC_MERRY_ABILITY_DESCRIPTION" LeaderAbilityIcon="ICON_SSC_MERRY_LEADER_ABILITY" LeaderAbilityName="LOC_TRAIT_LEADER_SSC_MERRY_ABILITY_NAME" LeaderIcon="ICON_SSC_MERRY_LEADER" LeaderName="LOC_LEADER_SSC_MERRY_NAME" LeaderType="LEADER_SSC_MERRY" Portrait="LEADER_SSC_MERRY_PORTRAIT" PortraitBackground="LEADER_SSC_MERRY_PORTRAIT_BACKGROUND" Domain="Players:Expansion1_Players"/>
+		<!-- Expansion 2 Support -->
+		<Row CivilizationAbilityDescription="LOC_CIVILIZATION_SSC_ABILITY_DESCRIPTION" CivilizationAbilityIcon="ICON_CIVILIZATION_SSC_ABILITY" CivilizationAbilityName="LOC_CIVILIZATION_SSC_ABILITY_NAME" CivilizationIcon="ICON_CIVILIZATION_SSC_MERRY" CivilizationName="LOC_CIVILIZATION_SSC_NAME" CivilizationType="CIVILIZATION_SSC" LeaderAbilityDescription="LOC_TRAIT_LEADER_SSC_MERRY_ABILITY_DESCRIPTION" LeaderAbilityIcon="ICON_SSC_MERRY_LEADER_ABILITY" LeaderAbilityName="LOC_TRAIT_LEADER_SSC_MERRY_ABILITY_NAME" LeaderIcon="ICON_SSC_MERRY_LEADER" LeaderName="LOC_LEADER_SSC_MERRY_NAME" LeaderType="LEADER_SSC_MERRY" Portrait="LEADER_SSC_MERRY_PORTRAIT" PortraitBackground="LEADER_SSC_MERRY_PORTRAIT_BACKGROUND" Domain="Players:Expansion2_Players"/>
+	</Players>
+	<!--PlayerItems-->
+		<!--Row CivilizationType="CIVILIZATION_SSC" LeaderType="LEADER_SSC_MERRY" Type="" Name="LOC_" Description="LOC_" Icon="ICON_" SortIndex="10"/-->
+		<!-- Expansion 1 Support -->
+		<!--Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_SSC" LeaderType="LEADER_SSC_MERRY" Type="" Name="LOC_" Description="LOC_" Icon="ICON_" SortIndex="10"/-->
+		<!-- Expansion 2 Support -->
+		<!--Row Domain="Players:Expansion2_Players" CivilizationType="CIVILIZATION_SSC" LeaderType="LEADER_SSC_MERRY" Type="" Name="LOC_" Description="LOC_" Icon="ICON_" SortIndex="10"/-->
+	<!--P/PlayerItems-->
+</GameData>
